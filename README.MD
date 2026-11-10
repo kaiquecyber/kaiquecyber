@@ -1,96 +1,121 @@
-<h1 align="left">Olá 👋, eu sou o Kaique Silva</h1>
+<div align="center">
 
-<p align="left">
-  <strong>Estudante de ADS | Desenvolvedor em formação</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=2496FF&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Kaique+Silva!;Estudante+de+ADS;Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo." alt="Apresentação animada de Kaique Silva" />
 
-<p align="left">
-  Aprendendo, construindo projetos e transformando ideias em código.
-</p>
+### Estudante de Análise e Desenvolvimento de Sistemas
+**Construindo, aprendendo e evoluindo através da tecnologia.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0969DA?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-s-pereira/)
+[![GitHub](https://img.shields.io/badge/GitHub-Reposit%Córios-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/kaiquecyber)
 
-### 🌐 Onde me encontrar
-
-  <a href="https://www.linkedin.com/in/kaique-s-pereira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
+</div>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvendo projetos para aprender na prática.
-- 🌱 Estudando desenvolvimento web e lógica de programação.
-- 🚀 Buscando evoluir constantemente e criar soluções úteis com tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software e na criação de soluções através da tecnologia.
+
+Atualmente, tenho meus conhecimentos concentrados em **HTML e CSS** e estou aprofundando meus estudos em **JavaScript**, colocando em prática o que aprendo por meio de projetos pessoais.
+
+Acredito que evoluir na programação vai além de aprender uma linguagem: é entender problemas, experimentar possibilidades e transformar conhecimento em algo real.
+
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+- 💻 Foco atual em desenvolvimento Front-end.
+- 🌱 Aprendendo JavaScript, lógica de programação e manipulação do DOM.
+- 🎯 Objetivo: evoluir como desenvolvedor e construir soluções úteis.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tecnologias e ferramentas
 
-**Frontend**
+### Desenvolvimento Front-end
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" />
 </p>
 
-**Ferramentas**
+| Tecnologia | Etapa atual |
+|:--|:--|
+| HTML5 | Conhecimento consolidado |
+| CSS3 | Conhecimento consolidado |
+| JavaScript | Em aprendizado |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+### Ferramentas de trabalho
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaiquecyber&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub do Kaique">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecyber&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
-</p>
+**Próximos passos:** TypeScript · Python · Aprofundamento em desenvolvimento de software.
 
 ---
 
-### 🐍 Minhas contribuições
+## 🚀 Projetos em destaque
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/kaiquecyber/kaiquecyber/output/github-snake.svg"
-    alt="Animação da cobrinha nas minhas contribuições do GitHub"
-    width="100%"
-  />
-</p>
+Projetos desenvolvidos para praticar, experimentar ideias e fortalecer minha base em desenvolvimento web.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Nididas Store</h3>
+      <p>Experiência de e-commerce conceitual com vitrine de produtos, carrossel interativo, navegação dinâmica e animações.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/kaiquecyber/nididas-store">↗ Ver repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 NJR BANK</h3>
+      <p>Interface conceitual de login para um banco digital, com identidade visual premium em preto e dourado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <a href="https://github.com/kaiquecyber/Tela-de-login-NJR-BANK">↗ Ver repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧮 Calculadora</h3>
+      <p>Aplicação para realizar operações matemáticas básicas, praticando funções JavaScript, eventos e manipulação de elementos HTML.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/kaiquecyber/calculadora-html-css">↗ Ver repositório</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Projetos
+## 📈 Evolução constante
 
-**Calculadora JavaScript**
+**Minha jornada é feita de prática, curiosidade e novos desafios.**
 
-Projeto prático para estudar lógica de programação, manipulação de elementos HTML e estilização de interfaces com CSS.
+- **Base:** construindo fundamentos sólidos com HTML e CSS.
+- **Agora:** aprofundando JavaScript e lógica de programação por meio de projetos.
+- **Depois:** expandindo meus conhecimentos com TypeScript, Python e novas tecnologias.
 
-🔗 [Ver repositório](https://github.com/kaiquecyber/calculadora-javascript)
-
-**Formulário de contato**
-
-Projeto de desenvolvimento web para praticar a criação e a estilização de formulários com HTML e CSS.
-
-🔗 [Ver repositório](https://github.com/kaiquecyber/html-formulario-contato)
+Cada projeto representa uma etapa do meu aprendizado. Mais do que apresentar resultados, quero registrar minha evolução e compartilhar o que estou construindo.
 
 ---
 
-### 💭 Minha filosofia
+## 🤝 Vamos nos conectar?
 
-> Cada projeto é uma oportunidade de aprender, melhorar e transformar conhecimento em algo real.
+Estou aberto a trocar conhecimentos, conhecer pessoas da área de tecnologia e aprender com novas experiências.
 
----
+<div align="center">
 
-<p align="left">
-  ⭐ Obrigado por visitar meu perfil!
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaique%20Silva-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-s-pereira/)
+[![GitHub](https://img.shields.io/badge/GitHub-@kaiquecyber-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiquecyber)
+
+**"Transformo ideias em códigos que funcionam."**
+
+<sub>Obrigado por conhecer um pouco da minha jornada. 🚀</sub>
+
+</div>
