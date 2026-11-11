@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=2496FF&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Kaique+Silva!;Estudante+de+ADS;Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo." alt="Apresentação animada de Kaique Silva" />
-
-
 <h1 align="left">Olá 👋, eu sou o Kaique Silva</h1>
 
 <p align="left">
@@ -15,13 +10,17 @@
 
 ---
 
+
 ### 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/kaiquecyber">
-    <img src="https://img.shields.io/badge/GitHub-kaiquecyber-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-kaiquecyber-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- Adicione seu LinkedIn aqui quando tiver o link -->
+
+  <a href="https://www.linkedin.com/in/kaique-s-pereira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
