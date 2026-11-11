@@ -87,10 +87,3 @@ Projeto de desenvolvimento web para praticar a criação e a estilização de fo
 <p align="left">
   ⭐ Obrigado por visitar meu perfil!
 </p>
-
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
