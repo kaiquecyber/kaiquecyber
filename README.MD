@@ -87,3 +87,16 @@ Projeto de desenvolvimento web para praticar a criação e a estilização de fo
 <p align="left">
   ⭐ Obrigado por visitar meu perfil!
 </p>
+
+
+---
+
+### 🐍 Minhas contribuições
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/kaiquecyber/kaiquecyber/output/github-snake.svg"
+    alt="Animação da cobrinha nas minhas contribuições do GitHub"
+    width="100%"
+  />
+</p>
