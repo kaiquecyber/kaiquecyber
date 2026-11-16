@@ -1,11 +1,5 @@
 # Olá, eu sou Kaique Silva 👋
 
-<div align="center">
-
-<img src="https://github.com/kaiquecyber.png" width="130" alt="Foto de perfil de Kaique Silva" />
-
-# Kaique Silva
-
 ### Transformo ideias em códigos que funcionam.
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web em formação**
