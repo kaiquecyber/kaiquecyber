@@ -1,27 +1,29 @@
+<div align="center">
+
 # Olá, eu sou Kaique Silva 👋
 
-### Transformo ideias em códigos que funcionam.
+### Transformar ideias em códigos que funcionam.
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web em formação**
 
-<br>
+<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/kaiquecyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<a href="https://www.linkedin.com/in/kaique-s-pereira/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/kaiquecyber">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<br><br>
+
+<img src="assets/solar-orbits.svg" alt="Sistema solar: eu sou o sol e minhas linguagens são os planetas" width="100%">
+
+<sub>Eu sou o sol, minhas linguagens são os planetas e meus projetos, as luas.</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
 Olá! Sou o Kaique, estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de tecnologia, com foco atual em desenvolvimento web e Front-end.
 
-Tenho conhecimentos em **HTML5 e CSS3** e estou aprofundando meus estudos em **JavaScript**, buscando transformar o aprendizado em projetos práticos.
+Tenho conhecimentos em **HTML5** e **CSS3** e estou me aprofundando em meus estudos em **JavaScript**, buscando transformar o aprendizado em projetos práticos.
 
 Gosto de entender como as coisas funcionam por trás de cada interface, explorar novas possibilidades e desenvolver soluções que tenham propósito.
 
@@ -35,13 +37,11 @@ Meu objetivo é crescer como desenvolvedor, contribuir com projetos reais e evol
 
 **Desenvolvimento Web**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript">
 
 **Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code">
 
 </div>
 
@@ -53,11 +53,19 @@ Meu objetivo é crescer como desenvolvedor, contribuir com projetos reais e evol
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição |
-|:---|:---|
-| [**Nididas Store**](https://github.com/kaiquecyber/nididas-store) | Projeto de loja virtual com foco em desenvolvimento de interfaces e experiência de navegação. |
-| [**NJR BANK**](https://github.com/kaiquecyber/Tela-de-login-NJR-BANK) | Interface de login com identidade visual inspirada no universo bancário. |
-| [**Calculadora**](https://github.com/kaiquecyber/calculadora-html-css) | Projeto prático para desenvolver habilidades na construção de interfaces web. |
+<p align="center">
+  <a href="https://github.com/kaiquecyber/loja-nidiidas"><img src="assets/solar-card-0.svg" alt="Loja Nidiidas" width="32%"></a>
+  <a href="https://github.com/kaiquecyber/banco-njr"><img src="assets/solar-card-1.svg" alt="BANCO NJR" width="32%"></a>
+  <a href="https://github.com/kaiquecyber/calculadora"><img src="assets/solar-card-2.svg" alt="Calculadora" width="32%"></a>
+</p>
+
+---
+
+## 📊 Atividade
+
+<p align="center">
+  <img src="assets/solar-log.svg" alt="Atividade nas últimas 26 semanas" width="100%">
+</p>
 
 ---
 
@@ -73,28 +81,8 @@ Meu objetivo é crescer como desenvolvedor, contribuir com projetos reais e evol
 
 > Disciplina para aprender. Curiosidade para explorar. Código para transformar ideias em realidade.
 
-<div align="center">
-
-### Vamos trocar uma ideia?
-
-<a href="https://www.linkedin.com/in/kaique-s-pereira/">
-  LinkedIn
-</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/kaiquecyber">
-  GitHub
-</a>
-
-<br><br>
-
-⭐ Obrigado por visitar meu perfil!
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kaiquecyber/kaiquecyber/output/github-snake.svg" alt="Animação das contribuições do GitHub" width="100%" />
-
-</div>
+### Vamos trocar uma ideia?
