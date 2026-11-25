@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="160" viewBox="0 0 280 160" role="img" aria-label="Loja Nidiidas: Projeto de loja virtual com foco em desenvolvimento de interfaces e experiência de navegação." font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+<title>Loja Nidiidas: Projeto de loja virtual com foco em desenvolvimento de interfaces e experiência de navegação.</title>
+<defs>
+<linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a30"/><stop offset="1" stop-color="#060912"/></linearGradient>
+<radialGradient id="cg"><stop offset="0" stop-color="#ffb703" stop-opacity=".5"/><stop offset="1" stop-color="#ffb703" stop-opacity="0"/></radialGradient>
+<radialGradient id="cp" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#ffd774"/><stop offset=".55" stop-color="#ffb703"/><stop offset="1" stop-color="#735201"/></radialGradient>
+</defs>
+<rect x=".5" y=".5" width="279" height="159" rx="14" fill="url(#cb)" stroke="#233152"/>
+<circle cx="57.2" cy="50.4" r="0.8" fill="#fff" opacity="0.6"/>
+<circle cx="154.6" cy="109.8" r="0.4" fill="#fff" opacity="0.4"/>
+<circle cx="64.3" cy="80.4" r="0.9" fill="#fff" opacity="0.3"/>
+<circle cx="38.2" cy="39.3" r="0.7" fill="#fff" opacity="0.6"/>
+<circle cx="15.1" cy="80.8" r="0.6" fill="#fff" opacity="0.3"/>
+<circle cx="201.6" cy="90.2" r="1.1" fill="#fff" opacity="0.2"/>
+<circle cx="178.7" cy="108.3" r="0.6" fill="#fff" opacity="0.3"/>
+<circle cx="242.0" cy="11.3" r="1.2" fill="#fff" opacity="0.6"/>
+<circle cx="209.7" cy="59.6" r="0.7" fill="#fff" opacity="0.5"/>
+<circle cx="39.0" cy="83.0" r="0.7" fill="#fff" opacity="0.6"/>
+<circle cx="135.4" cy="136.7" r="1.0" fill="#fff" opacity="0.2"/>
+<circle cx="197.2" cy="43.9" r="1.1" fill="#fff" opacity="0.3"/>
+<circle cx="179.5" cy="119.6" r="1.1" fill="#fff" opacity="0.5"/>
+<circle cx="266.4" cy="34.7" r="0.5" fill="#fff" opacity="0.2"/>
+<circle cx="50" cy="52" r="34" fill="url(#cg)"/>
+<circle cx="50" cy="52" r="17" fill="url(#cp)"/>
+<g transform="translate(50 52) rotate(-20)"><ellipse rx="33" ry="11" fill="none" stroke="#fff" stroke-opacity=".18" stroke-dasharray="2 4"/>
+<circle r="3.6" fill="#e6edf3"><animateMotion dur="5s" begin="-0s" repeatCount="indefinite" path="M33,0 A33,11 0 1,1 -33,0 A33,11 0 1,1 33,0"/></circle></g>
+<text x="96" y="48" font-size="15" font-weight="700" fill="#e6edf3">Loja Nidiidas</text>
+<text x="20" y="106" font-size="12" fill="#a8b3c4">Projeto de loja virtual com foco em</text>
+<text x="20" y="123" font-size="12" fill="#a8b3c4">desenvolvimento de interfaces e</text>
+<text x="20" y="140" font-size="12" fill="#a8b3c4">experiência de navegação.</text>
+</svg>

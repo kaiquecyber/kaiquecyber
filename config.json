@@ -1,0 +1,20 @@
+{
+  "username": "kaiquecyber",
+  "projects": [
+    {
+      "repo": "loja-nidiidas",
+      "title": "Loja Nidiidas",
+      "description": "Projeto de loja virtual com foco em desenvolvimento de interfaces e experiência de navegação."
+    },
+    {
+      "repo": "banco-njr",
+      "title": "BANCO NJR",
+      "description": "Interface de login com identidade visual inspirada no universo bancário."
+    },
+    {
+      "repo": "calculadora",
+      "title": "Calculadora",
+      "description": "Projeto prático para desenvolver habilidades na construção de interfaces web."
+    }
+  ]
+}

@@ -1,73 +1,94 @@
 <div align="center">
 
-  <img src="https://github.com/kaiquecyber.png" width="132" alt="Foto de perfil de Kaique Silva" />
+# Olá, eu sou Kaique Silva 👋
 
-  # Kaique Silva
+### Transformar ideias em códigos que funcionam.
 
-  **Transformo ideias em códigos que funcionam.**
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web em formação**
 
-  Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor em formação
+<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/kaiquecyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-  <a href="https://www.linkedin.com/in/kaique-s-pereira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kaiquecyber">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<br><br>
+
+<img src="assets/solar-orbits.svg" alt="Sistema solar: eu sou o sol e minhas linguagens são os planetas" width="100%">
+
+<sub>Eu sou o sol, minhas linguagens são os planetas e meus projetos, as luas.</sub>
 
 </div>
 
 ---
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
-Olá! Sou o Kaique, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
+Olá! Sou o Kaique, estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de tecnologia, com foco atual em desenvolvimento web e Front-end.
 
-Estou construindo minha trajetória no desenvolvimento web, fortalecendo minha base em **HTML, CSS e JavaScript** e aprendendo, na prática, com projetos próprios.
+Tenho conhecimentos em **HTML5** e **CSS3** e estou me aprofundando em meus estudos em **JavaScript**, buscando transformar o aprendizado em projetos práticos.
 
-Gosto de transformar ideias em soluções funcionais, entender como as coisas funcionam por trás da interface e evoluir um pouco a cada projeto.
+Gosto de entender como as coisas funcionam por trás de cada interface, explorar novas possibilidades e desenvolver soluções que tenham propósito.
 
-Meu objetivo é crescer como desenvolvedor, contribuir com projetos que tenham propósito e nunca parar de aprender.
+Meu objetivo é crescer como desenvolvedor, contribuir com projetos reais e evoluir constantemente como profissional.
 
-## Tecnologias e ferramentas
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-  **Desenvolvimento web**
+**Desenvolvimento Web**
 
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript">
 
-  **Ferramentas**
+**Ferramentas**
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code" />
-
-  **Em estudo**
-
-  <img src="https://skillicons.dev/icons?i=ts,python" alt="TypeScript e Python" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code">
 
 </div>
 
-## Projetos em destaque
+**Atualmente estudando:** JavaScript, lógica de programação e desenvolvimento de interfaces web.
 
-| Projeto | Sobre |
-| --- | --- |
-| [**Nididas Store**](https://github.com/kaiquecyber/nididas-store) | Loja virtual conceitual, com foco em interface e experiência de navegação. |
-| [**NJR BANK**](https://github.com/kaiquecyber/Tela-de-login-NJR-BANK) | Interface de login com identidade visual inspirada no universo bancário premium. |
-| [**Calculadora**](https://github.com/kaiquecyber/calculadora-html-css) | Projeto de calculadora para praticar construção de interfaces web. |
+**Próximos objetivos:** TypeScript e Python.
 
-## Minha jornada
+---
 
-- **2025** — Início da minha jornada em Análise e Desenvolvimento de Sistemas.
-- **2026** — Aprendizado contínuo e desenvolvimento de projetos práticos.
-- **Próximos passos** — Aprofundar JavaScript, estudar TypeScript e Python e construir soluções cada vez melhores.
+## 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/kaiquecyber/loja-nidiidas"><img src="assets/solar-card-0.svg" alt="Loja Nidiidas" width="32%"></a>
+  <a href="https://github.com/kaiquecyber/banco-njr"><img src="assets/solar-card-1.svg" alt="BANCO NJR" width="32%"></a>
+  <a href="https://github.com/kaiquecyber/calculadora"><img src="assets/solar-card-2.svg" alt="Calculadora" width="32%"></a>
+</p>
+
+---
+
+## 📊 Atividade
+
+<p align="center">
+  <img src="assets/solar-log.svg" alt="Atividade nas últimas 26 semanas" width="100%">
+</p>
+
+---
+
+## 🌱 Minha jornada
+
+- **2026** — Início da graduação em Análise e Desenvolvimento de Sistemas.
+- **2026** — Desenvolvimento de projetos próprios e aprofundamento em tecnologias web.
+- **Próximos passos** — Evoluir em JavaScript, estudar TypeScript e Python e construir aplicações cada vez mais completas.
+
+---
+
+## 📌 Minha filosofia
+
+> Disciplina para aprender. Curiosidade para explorar. Código para transformar ideias em realidade.
+
+---
 
 <div align="center">
 
-  *Disciplina, foco e evolução.*
+### Vamos trocar uma ideia?
 
-  **Vamos trocar uma ideia?**
+[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) • [GitHub](https://github.com/kaiquecyber)
 
-  <a href="https://www.linkedin.com/in/kaique-s-pereira/">LinkedIn</a> •
-  <a href="https://github.com/kaiquecyber">GitHub</a>
+⭐ Obrigado por visitar meu perfil!
 
 </div>

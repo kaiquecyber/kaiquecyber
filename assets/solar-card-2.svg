@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="160" viewBox="0 0 280 160" role="img" aria-label="Calculadora: Projeto prático para desenvolver habilidades na construção de interfaces web." font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+<title>Calculadora: Projeto prático para desenvolver habilidades na construção de interfaces web.</title>
+<defs>
+<linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a30"/><stop offset="1" stop-color="#060912"/></linearGradient>
+<radialGradient id="cg"><stop offset="0" stop-color="#c77dff" stop-opacity=".5"/><stop offset="1" stop-color="#c77dff" stop-opacity="0"/></radialGradient>
+<radialGradient id="cp" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#e0b8ff"/><stop offset=".55" stop-color="#c77dff"/><stop offset="1" stop-color="#5a3873"/></radialGradient>
+</defs>
+<rect x=".5" y=".5" width="279" height="159" rx="14" fill="url(#cb)" stroke="#233152"/>
+<circle cx="192.7" cy="87.0" r="1.0" fill="#fff" opacity="0.6"/>
+<circle cx="259.0" cy="113.4" r="0.9" fill="#fff" opacity="0.5"/>
+<circle cx="137.4" cy="25.4" r="0.8" fill="#fff" opacity="0.6"/>
+<circle cx="227.5" cy="129.7" r="1.0" fill="#fff" opacity="0.5"/>
+<circle cx="90.2" cy="95.1" r="0.5" fill="#fff" opacity="0.4"/>
+<circle cx="186.8" cy="140.9" r="0.7" fill="#fff" opacity="0.4"/>
+<circle cx="257.2" cy="121.6" r="0.6" fill="#fff" opacity="0.5"/>
+<circle cx="78.8" cy="117.1" r="0.6" fill="#fff" opacity="0.2"/>
+<circle cx="137.4" cy="20.8" r="1.2" fill="#fff" opacity="0.2"/>
+<circle cx="129.0" cy="146.1" r="0.5" fill="#fff" opacity="0.4"/>
+<circle cx="123.3" cy="66.7" r="0.5" fill="#fff" opacity="0.5"/>
+<circle cx="125.1" cy="117.3" r="0.5" fill="#fff" opacity="0.3"/>
+<circle cx="237.8" cy="68.6" r="1.2" fill="#fff" opacity="0.6"/>
+<circle cx="97.8" cy="147.0" r="1.2" fill="#fff" opacity="0.3"/>
+<circle cx="50" cy="52" r="34" fill="url(#cg)"/>
+<circle cx="50" cy="52" r="17" fill="url(#cp)"/>
+<g transform="translate(50 52) rotate(-20)"><ellipse rx="33" ry="11" fill="none" stroke="#fff" stroke-opacity=".18" stroke-dasharray="2 4"/>
+<circle r="3.6" fill="#e6edf3"><animateMotion dur="7s" begin="-2.6s" repeatCount="indefinite" path="M33,0 A33,11 0 1,1 -33,0 A33,11 0 1,1 33,0"/></circle></g>
+<text x="96" y="48" font-size="15" font-weight="700" fill="#e6edf3">Calculadora</text>
+<text x="20" y="106" font-size="12" fill="#a8b3c4">Projeto prático para desenvolver</text>
+<text x="20" y="123" font-size="12" fill="#a8b3c4">habilidades na construção de</text>
+<text x="20" y="140" font-size="12" fill="#a8b3c4">interfaces web.</text>
+</svg>
