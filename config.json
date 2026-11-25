@@ -1,20 +1,30 @@
 {
   "username": "kaiquecyber",
+  "name": "Kaique Silva",
+  "role": "Desenvolvedor Front-end em formação",
+  "status": "aberto a estágio e vagas júnior",
+  "learning": ["TypeScript", "Python"],
   "projects": [
     {
       "repo": "loja-nidiidas",
       "title": "Loja Nidiidas",
-      "description": "Projeto de loja virtual com foco em desenvolvimento de interfaces e experiência de navegação."
+      "description": "Loja virtual com foco em interface e experiência de navegação.",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "demo": ""
     },
     {
       "repo": "banco-njr",
       "title": "BANCO NJR",
-      "description": "Interface de login com identidade visual inspirada no universo bancário."
+      "description": "Interface de login com identidade visual inspirada no universo bancário.",
+      "tags": ["HTML", "CSS", "UI"],
+      "demo": ""
     },
     {
       "repo": "calculadora",
       "title": "Calculadora",
-      "description": "Projeto prático para desenvolver habilidades na construção de interfaces web."
+      "description": "Projeto prático para desenvolver habilidades na construção de interfaces web.",
+      "tags": ["JavaScript", "DOM", "Lógica"],
+      "demo": ""
     }
   ]
 }

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="370" viewBox="0 0 900 370" role="img" aria-label="Tecnologias de kaiquecyber: JavaScript 40%, HTML 30%, CSS 30%; em estudo: TypeScript, Python" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<title>Tecnologias de kaiquecyber: JavaScript 40%, HTML 30%, CSS 30%; em estudo: TypeScript, Python</title>
+<defs><linearGradient id="k-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1530"/><stop offset="1" stop-color="#070b16"/></linearGradient><clipPath id="k-clip"><rect width="900" height="370" rx="16"/></clipPath></defs>
+<rect width="900" height="370" rx="16" fill="url(#k-bg)"/>
+<g clip-path="url(#k-clip)"><radialGradient id="k-g1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.1"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<ellipse cx="780" cy="40" rx="260" ry="90" fill="url(#k-g1)"><animateTransform attributeName="transform" type="translate" values="0,0;14,7;0,0" dur="18s" repeatCount="indefinite"/></ellipse>
+<text x="46" y="44" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5b6b86">// espectro de tecnologias</text>
+<text x="46" y="74" font-size="23" font-weight="700" fill="#e6edf3">As ferramentas por trás do trabalho</text>
+<line x1="46" y1="92" x2="854" y2="92" stroke="#1b2744" stroke-dasharray="5 7"/>
+<rect x="46" y="118" width="36" height="36" rx="9" fill="#f1e05a" fill-opacity=".16" stroke="#f1e05a" stroke-opacity=".45"/>
+<text x="64" y="141" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#f5e883">JS</text>
+<text x="46" y="176" font-size="15" font-weight="600" fill="#e6edf3">JavaScript</text>
+<text x="46" y="193" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b98ad">40% do código público</text>
+<rect x="46" y="203" width="168" height="3" rx="1.5" fill="#16213d"/>
+<rect x="46" y="203" width="0" height="3" rx="1.5" fill="#f1e05a"><animate attributeName="width" from="0" to="168" dur=".9s" begin="0.2s" fill="freeze"/></rect>
+<circle cx="46" cy="204.5" r="3" fill="#f5e883" opacity="0"><animate attributeName="cx" from="46" to="214" dur=".9s" begin="0.2s" fill="freeze"/><animate attributeName="opacity" from="1" to="1" begin="0.2s" dur=".01s" fill="freeze"/></circle>
+<rect x="251" y="118" width="36" height="36" rx="9" fill="#e34c26" fill-opacity=".16" stroke="#e34c26" stroke-opacity=".45"/>
+<text x="269" y="141" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#ea795c">H5</text>
+<text x="251" y="176" font-size="15" font-weight="600" fill="#e6edf3">HTML</text>
+<text x="251" y="193" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b98ad">30% do código público</text>
+<rect x="251" y="203" width="168" height="3" rx="1.5" fill="#16213d"/>
+<rect x="251" y="203" width="0" height="3" rx="1.5" fill="#e34c26"><animate attributeName="width" from="0" to="126" dur=".9s" begin="0.3s" fill="freeze"/></rect>
+<circle cx="251" cy="204.5" r="3" fill="#ea795c" opacity="0"><animate attributeName="cx" from="251" to="377" dur=".9s" begin="0.3s" fill="freeze"/><animate attributeName="opacity" from="1" to="1" begin="0.3s" dur=".01s" fill="freeze"/></circle>
+<rect x="456" y="118" width="36" height="36" rx="9" fill="#7b5ea7" fill-opacity=".16" stroke="#7b5ea7" stroke-opacity=".45"/>
+<text x="474" y="141" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#9c86bd">C3</text>
+<text x="456" y="176" font-size="15" font-weight="600" fill="#e6edf3">CSS</text>
+<text x="456" y="193" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b98ad">30% do código público</text>
+<rect x="456" y="203" width="168" height="3" rx="1.5" fill="#16213d"/>
+<rect x="456" y="203" width="0" height="3" rx="1.5" fill="#7b5ea7"><animate attributeName="width" from="0" to="126" dur=".9s" begin="0.4s" fill="freeze"/></rect>
+<circle cx="456" cy="204.5" r="3" fill="#9c86bd" opacity="0"><animate attributeName="cx" from="456" to="582" dur=".9s" begin="0.4s" fill="freeze"/><animate attributeName="opacity" from="1" to="1" begin="0.4s" dur=".01s" fill="freeze"/></circle>
+<line x1="46" y1="230" x2="854" y2="230" stroke="#1b2744" stroke-dasharray="5 7"/>
+<text x="46" y="258" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5b6b86">// em estudo agora</text>
+<rect x="46" y="274" width="36" height="36" rx="9" fill="#a78bfa" fill-opacity=".08" stroke="#a78bfa" stroke-opacity=".6" stroke-dasharray="3 3"/>
+<text x="64" y="297" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#a78bfa">TS</text>
+<text x="96" y="289" font-size="15" font-weight="600" fill="#e6edf3">TypeScript</text>
+<text x="96" y="306" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#a78bfa">próximo passo</text>
+<circle cx="82" cy="278" r="3" fill="#a78bfa"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+<rect x="251" y="274" width="36" height="36" rx="9" fill="#a78bfa" fill-opacity=".08" stroke="#a78bfa" stroke-opacity=".6" stroke-dasharray="3 3"/>
+<text x="269" y="297" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#a78bfa">PY</text>
+<text x="301" y="289" font-size="15" font-weight="600" fill="#e6edf3">Python</text>
+<text x="301" y="306" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#a78bfa">próximo passo</text>
+<circle cx="287" cy="278" r="3" fill="#a78bfa"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+</g>
+<rect x=".5" y=".5" width="899" height="369" rx="16" fill="none" stroke="#1b2744"/>
+</svg>
